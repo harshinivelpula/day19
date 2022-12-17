@@ -21,7 +21,7 @@
 
             passwordrule2 rule2 = new passwordrule2();
             Console.WriteLine(rule2.validatePassWord2("Harshini"));
-            
+
             passwordrule3 rule3 = new passwordrule3();
             Console.WriteLine(rule3.validatePassWord3("harshiN3"));
 
